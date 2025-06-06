@@ -18,6 +18,6 @@
 - **3D Wound Imaging Using Photometric Stereo**
 - **Predicting Formula 1 Race Results Using Machine Learning**
 
-## 🌐 Contact me!
+## 🌐 Contact Me
 <a href="https://www.linkedin.com/in/n8danac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:ncdanac@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
