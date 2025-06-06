@@ -21,7 +21,3 @@
 ## 🌐 Contact me!
 <a href="https://www.linkedin.com/in/n8danac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:ncdanac@up.edu.ph"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=N8ndanac&icon=0&color=0)](https://visitcount.itsvg.in)
